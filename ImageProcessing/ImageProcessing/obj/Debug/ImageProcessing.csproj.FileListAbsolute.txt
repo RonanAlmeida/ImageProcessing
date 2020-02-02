@@ -1,0 +1,22 @@
+E:\Assignment3\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+E:\Assignment3\ImageProcessing\bin\Debug\ImageProcessing.exe
+E:\Assignment3\ImageProcessing\bin\Debug\ImageProcessing.pdb
+E:\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.frmMain.resources
+E:\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+E:\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+E:\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.exe
+E:\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.pdb
+E:\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\OneDrive\Desktop\Comp Sci\Assignment3\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\Ronan\OneDrive\Desktop\Comp Sci\Assignment3\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Ronan\OneDrive\Desktop\Comp Sci\Assignment3\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Ronan\OneDrive\Desktop\Comp Sci\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\Ronan\OneDrive\Desktop\Comp Sci\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.frmMain.resources
+C:\Users\Ronan\OneDrive\Desktop\Comp Sci\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Ronan\OneDrive\Desktop\Comp Sci\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\Ronan\OneDrive\Desktop\Comp Sci\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\OneDrive\Desktop\Comp Sci\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Ronan\OneDrive\Desktop\Comp Sci\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\Ronan\Downloads\ICS4U assignments 2018-20190913T020809Z-001\ICS4U assignments 2018\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\Ronan\Downloads\ICS4U assignments 2018-20190913T020809Z-001\ICS4U assignments 2018\Assignment3\ImageProcessing\obj\Debug\ImageProcessing.pdb
