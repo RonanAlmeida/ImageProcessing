@@ -1,2 +1,2 @@
-# ImageProcessing
-a Windows Application to upload and edit images
+# Image Processing
+C# Windows Application that modifies uploaded images based on selections
